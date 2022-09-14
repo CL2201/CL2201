@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CL2201
 - I make scripts for a lego game 👍
-- am currently learning html and css
+- Lua is cool
 - Uh idk
 
 <!---
